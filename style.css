@@ -9,13 +9,13 @@ body {
 main {
   margin-top: 20px;
 }
-div.jumbotron {
+.jumbotron {
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
   align-content: center;
 }
-div.jumbotron h1 {
+.jumbotron h1 {
   font-size: 60px;
 }
 p.jumbotron {
