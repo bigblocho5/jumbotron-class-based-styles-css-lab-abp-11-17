@@ -9,7 +9,7 @@ body {
 main {
   margin-top: 20px;
 }
-.jumbotron div{
+div.jumbotron {
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
